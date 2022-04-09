@@ -19,6 +19,3 @@ Make sure to use Unity 2020 or higher versions for this project to work properly
 * Switch build platform to Android
 * Go to project setting's and change the minimum api level to `Android 6 API Level 23`
 * Build the apk
-
-## Contributing Guidelines
-You can find the contributing guidelines in `CONTRIBUTING.md` in this repo, here we just provide a quick overview and share our git workflow that we want you to follow.

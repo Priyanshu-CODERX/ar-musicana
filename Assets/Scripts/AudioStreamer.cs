@@ -30,7 +30,7 @@ public class AudioStreamer : MonoBehaviour
         targetImage.texture = LoaderImage;
     }
 
-    IEnumerator GetAudioClip()
+    public IEnumerator GetAudioClip()
     {
         source.Stop();
         LoadingText.text = "Loading Music";
